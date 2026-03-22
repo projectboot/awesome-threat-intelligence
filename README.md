@@ -149,6 +149,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://drivershield.io" target="_blank">DriverShield.io</a>
+        </td>
+        <td>
+          Online Windows kernel driver vulnerability and malware analysis platform with BYOVD detection and Sigma rule generation
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
         </td>
         <td>
